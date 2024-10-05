@@ -1,1 +1,1 @@
-# 2D-particle-collisions
+If you are just getting into understanding relativistic collisions and four energy-momentum vectors, this code simulation is a good starting point to visualize them. The code is written in Python with instruction guides and details. Should be compatible with python versions 3.11 and above.
